@@ -1,5 +1,5 @@
 import { validateMongoDbID } from "../utils/validateId.js"
-import { Pokemon } from "../models/pokemon.js";
+import { Pokemon } from "../models/Pokemon.js";
 import { ExceptionHandler } from "../middlewares/errorHandler.js";
 
 export const createPokemon = async (req, res, next) => {
