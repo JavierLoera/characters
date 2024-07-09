@@ -1,5 +1,3 @@
-# prueba-backend
-
 para ejecutarlo necesitaras:
 
 -instalar las dependencias 
@@ -9,3 +7,6 @@ para ejecutarlo necesitaras:
   PORT=8000
   
   ejecutar npm start
+
+
+Este proyecto permite la creacion de personajes de pokemons. Consume además una api de pokemons para probar el funcionamiento de solicitudes desde el backend.
